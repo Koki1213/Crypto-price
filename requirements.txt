@@ -1,0 +1,8 @@
+altair<5
+pandas
+streamlit
+numpy
+matplotlib
+seaborn
+beautifulsoup4
+requests
